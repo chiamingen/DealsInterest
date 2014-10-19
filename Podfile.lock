@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.3.1)
+  - AFNetworking/Security (2.3.1)
+  - AFNetworking/Serialization (2.3.1)
+  - AFNetworking/UIKit (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - HMSegmentedControl (1.3.0)
+  - JSQMessagesViewController (5.0.4):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.5.2)
+  - LPGoogleFunctions (1.2.1):
+    - AFNetworking (~> 2.0)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.2)
+  - HMSegmentedControl (~> 1.3.0)
+  - JSQMessagesViewController
+  - LPGoogleFunctions
+  - SVPullToRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: 6d7b76aa5d04c8c37daad3eef4b7e3f2a7620da3
+  HMSegmentedControl: 9b3a39b9efd3d370b5d3d7b7cd5430f01a889b0b
+  JSQMessagesViewController: 70be735cbe86b74961870d1d9a2948af7ea2da9d
+  JSQSystemSoundPlayer: c24914bc96ff5365b5d28b59d7ecffd60d1c5587
+  LPGoogleFunctions: 45111b9602d1d487deb931571105d6acc2d7be1c
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
+
+COCOAPODS: 0.33.1
